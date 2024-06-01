@@ -12,7 +12,7 @@ A Library Management System designed to see the books available in a college lib
 ## Using Library Management System
 CLI-->
 ```
-git clone https://github.com/saikat021/Library-Management-System.git
+git clone https://github.com/https://github.com/Maha-Mahii/LibraryManagementSystem/Library-Management-System.git
 cd Library-Management-System
 Eclipse-->
 1. Let maven resolve dependencies 
